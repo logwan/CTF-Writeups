@@ -3,9 +3,12 @@
 - **Difficulty:** Easy
 - **Released:** Mar 2, 2026
 - **Solved:** 2026-05-25
+- **URL:** https://alpacahack.com/daily/challenges/bars?month=2026-03
 
 ### 問題文
 > Bars, bars, and more bars.
+
+
 
 ## 方針
 指定されたURLへ飛んでみると、クリックもスクロールもキー入力も何もできない。
