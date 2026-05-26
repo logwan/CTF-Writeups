@@ -4,3 +4,4 @@
 - [Bars](./Web/Easy/Bars/README.md)
 - [Xmas Login](./Web/Easy/Xmas%20Login/README.md)
 - [Fushigi Crawler](./Web/Easy/Fushigi%20Crawler/README.md)
+- [The World](./Web/Easy/The%20World/README.md)
