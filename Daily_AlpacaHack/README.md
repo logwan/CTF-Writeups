@@ -9,3 +9,4 @@
 
 ### Medium
 - [Plz Login](./Web/Medium/Plz%20Login/README.md)
+- [Log Viewer](./Web/Medium/Log%20Viewer/README.md)
